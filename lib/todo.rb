@@ -1,3 +1,5 @@
+require 'bundler/setup'
+
 class Todo
   DONE_MARKER = 'X'
   UNDONE_MARKER = ' '

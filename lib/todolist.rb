@@ -1,3 +1,4 @@
+require 'bundler/setup'
 require_relative 'todo'
 
 class TodoList
